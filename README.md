@@ -1,5 +1,5 @@
 # hello-world
 
 Hello,
-My namee is Hithesh,
+My name is Hithesh,
 Have a Nice Day!
